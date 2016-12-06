@@ -1,0 +1,41 @@
+/*escopo*/
+
+/*
+html {
+  --light: #fff;
+  --dark: #000;
+  --gray: #ccc;
+}
+*/
+
+:root {
+  --candy01: #ff0090;
+  --candy02: #ffd800;
+  --candy03: #00c6ff;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lv-1 {
+  height: 300px;
+  width: 300px;
+  /*--candy01: #000;*/
+  background-color: var(--candy01, #660066);
+}
+
+.lv-2 {
+  height: 200px;
+  width: 200px;
+  /*--candy03: #ccc;*/
+  background-color: var(--candy02, #660066);
+}
+
+.center .lv-3 {
+  height: 100px;
+  width: 100px;
+  background-color: var(--candy03, #660066);
+}

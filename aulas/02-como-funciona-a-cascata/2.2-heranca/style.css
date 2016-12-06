@@ -1,0 +1,26 @@
+/*heranca*/
+
+html {
+  color: #ff0090;
+}
+
+.paragraph {
+  color: #ffd800;
+  height: 400px;
+}
+
+.bold {
+  color: #00c6ff;
+}
+
+/*.paragraph .bold {
+  color: #00c6ff;
+}*/
+
+.bold {
+  color: initial;
+}
+
+/*.bold {
+  height: inherit;
+}*/
