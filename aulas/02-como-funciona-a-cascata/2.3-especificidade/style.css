@@ -1,0 +1,16 @@
+#box {
+  background: green;
+}
+
+.box {
+  background: blue;
+}
+
+div {
+  height: 100px;
+  background: yellow;
+}
+
+div {
+  background: green !important;
+}

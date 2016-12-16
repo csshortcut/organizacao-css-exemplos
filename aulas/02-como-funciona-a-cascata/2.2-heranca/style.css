@@ -1,26 +1,12 @@
-/*heranca*/
-
 html {
-  color: #ff0090;
+  color: red;
 }
 
 .paragraph {
-  color: #ffd800;
-  height: 400px;
+  color: inherit;
+  width: 200px;
 }
-
-.bold {
-  color: #00c6ff;
-}
-
-/*.paragraph .bold {
-  color: #00c6ff;
-}*/
 
 .bold {
   color: initial;
 }
-
-/*.bold {
-  height: inherit;
-}*/
