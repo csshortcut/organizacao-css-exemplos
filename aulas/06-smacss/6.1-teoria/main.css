@@ -1,0 +1,12 @@
+/* main - SMACSS - Scalable and Modular Architeture
+======================================== */
+/* organização
+==================== */
+/* States Rules
+==================== */
+.is-visible {
+  display: block;
+}
+.is-hidden {
+  display: none;
+}
