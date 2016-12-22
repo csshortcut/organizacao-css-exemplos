@@ -2,5 +2,7 @@
 
 ## Códigos apresentados em Aula.
 
-- [a-importancia-da-organizacao](https://github.com/csshortcut/organizacao-css-exemplos/tree/master/aulas/01-a-importancia-da-organizacao/)
-- [como-funciona-a-cascata](https://github.com/csshortcut/organizacao-css-exemplos/tree/master/aulas/02-como-funciona-a-cascata/)
+- [A importância da organizacao](https://github.com/csshortcut/organizacao-css-exemplos/tree/master/aulas/01-a-importancia-da-organizacao/)
+- [Como funciona a cascata](https://github.com/csshortcut/organizacao-css-exemplos/tree/master/aulas/02-como-funciona-a-cascata/)
+- [Code Style Guide](https://github.com/csshortcut/code-style-guide)
+- [Semântica](https://github.com/csshortcut/organizacao-css-exemplos/tree/master/aulas/04-semantica/)

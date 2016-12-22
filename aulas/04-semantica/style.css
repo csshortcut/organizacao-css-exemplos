@@ -1,0 +1,17 @@
+:root {
+  --cor-principal: #000;
+  --cor-secundaria: #a7ff52;
+  --orange: #ff8f52;
+}
+
+.btn-default {
+  color: blue;
+}
+
+.btn-error {
+  color: red;
+}
+
+.is-active {
+  display: block;
+}
