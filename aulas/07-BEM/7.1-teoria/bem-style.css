@@ -1,0 +1,23 @@
+.menu {
+    /* regras css */
+}
+
+.menu__link {
+    /* regras css */
+}
+
+.menu__link--active {
+    /* regras css */  
+}
+
+.footer {
+    /* regras css */
+}
+
+.footer--big {
+    /* regras css */
+}
+
+.footer__link {
+    /* regras css para sobrescrever o outro link */
+}
