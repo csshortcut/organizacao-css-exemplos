@@ -1,4 +1,10 @@
-/* base */
+/* Settings */
+/* Tools */
+/* Generic */
+* {
+  box-sizing: border-box;
+}
+/* Base */
 /* normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 html {
   font-family: sans-serif; /* 1 */
@@ -199,9 +205,6 @@ template {
 [hidden] {
   display: none;
 }
-* {
-  box-sizing: border-box;
-}
 html,
 body {
   height: 100%;
@@ -213,24 +216,7 @@ body {
   align-items: center;
   flex-flow: column;
 }
-/* layout */
-.header {
-  background-color: #f44280;
-  height: 30px;
-  width: 100%;
-}
-.main {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-footer {
-  background-color: #f44280;
-  height: 30px;
-  width: 100%;
-}
-/* module */
+/* Objects */
 .form-login {
   padding: 20px;
   background: #f44280;
@@ -264,7 +250,24 @@ footer {
   background-color: #bc0143;
   cursor: pointer;
 }
-/* state */
+/* Components */
+.header {
+  background-color: #f44280;
+  height: 30px;
+  width: 100%;
+}
+.main {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+footer {
+  background-color: #f44280;
+  height: 30px;
+  width: 100%;
+}
+/* Trumps */
 .is-inactive {
   background: #b2b2b2;
   opacity: 0.7;
