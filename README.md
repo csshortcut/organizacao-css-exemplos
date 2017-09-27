@@ -8,3 +8,6 @@
 - [Semântica](https://github.com/csshortcut/organizacao-css-exemplos/tree/master/aulas/04-semantica/)
 - [Intro a pré-processadores](https://github.com/csshortcut/organizacao-css-exemplos/tree/master/aulas/05-intro-a-pre-processadores/)
 - [SMACSS](https://github.com/csshortcut/organizacao-css-exemplos/tree/master/aulas/06-smacss/)
+- [BEM](https://github.com/csshortcut/organizacao-css-exemplos/tree/master/aulas/07-BEM/)
+- [ITCSS](https://github.com/csshortcut/organizacao-css-exemplos/tree/master/aulas/08-ITCSS/)
+- [Atomic Design](https://github.com/csshortcut/organizacao-css-exemplos/tree/master/aulas/09-atomic-design/)
